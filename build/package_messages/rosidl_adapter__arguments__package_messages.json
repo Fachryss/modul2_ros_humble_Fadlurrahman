@@ -1,0 +1,6 @@
+{
+  "package_name": "package_messages",
+  "non_idl_tuples": [
+    "/home/chryss/ros2_ws/src/package_messages:msg/Controller.msg"
+  ]
+}

@@ -1,0 +1,6 @@
+Invoking command in '/home/chryss/ros2_ws/build/package_messages': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/chryss/ros2_ws/src/package_messages -DCMAKE_INSTALL_PREFIX=/home/chryss/ros2_ws/install/package_messages
+Invoked command in '/home/chryss/ros2_ws/build/package_messages' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/chryss/ros2_ws/src/package_messages -DCMAKE_INSTALL_PREFIX=/home/chryss/ros2_ws/install/package_messages
+Invoking command in '/home/chryss/ros2_ws/build/package_messages': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/chryss/ros2_ws/build/package_messages -- -j16 -l16
+Invoked command in '/home/chryss/ros2_ws/build/package_messages' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/chryss/ros2_ws/build/package_messages -- -j16 -l16
+Invoking command in '/home/chryss/ros2_ws/build/package_messages': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/chryss/ros2_ws/build/package_messages
+Invoked command in '/home/chryss/ros2_ws/build/package_messages' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/chryss/ros2_ws/build/package_messages

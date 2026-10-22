@@ -1,0 +1,17 @@
+/home/chryss/ros2_ws/install/controller_package/lib/controller_package/controller_publisher
+/home/chryss/ros2_ws/install/controller_package/lib/controller_package/controller_subscriber
+/home/chryss/ros2_ws/install/controller_package/share/ament_index/resource_index/package_run_dependencies/controller_package
+/home/chryss/ros2_ws/install/controller_package/share/ament_index/resource_index/parent_prefix_path/controller_package
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/environment/ament_prefix_path.sh
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/environment/ament_prefix_path.dsv
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/environment/path.sh
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/environment/path.dsv
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/local_setup.bash
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/local_setup.sh
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/local_setup.zsh
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/local_setup.dsv
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/package.dsv
+/home/chryss/ros2_ws/install/controller_package/share/ament_index/resource_index/packages/controller_package
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/cmake/controller_packageConfig.cmake
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/cmake/controller_packageConfig-version.cmake
+/home/chryss/ros2_ws/install/controller_package/share/controller_package/package.xml

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "package_messages__rs",
+		"source" : "/home/chryss/ros2_ws/build/package_messages/package_messages__rs"
+	}
+}
